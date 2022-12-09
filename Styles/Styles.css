@@ -1,0 +1,29 @@
+
+
+
+.muscles {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: grey;
+}
+
+.days {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+}
+
+.weeks{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.quote{
+
+    width: 25%;
+    margin: auto;
+    color: rgb(0, 255, 34);
+    font-size: 20px;
+}
